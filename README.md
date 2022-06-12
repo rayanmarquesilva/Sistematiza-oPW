@@ -1,2 +1,2 @@
-# Sistematiza-oPW
+# SistematizacaoPW
 Sistematização da matéria Programação Web
