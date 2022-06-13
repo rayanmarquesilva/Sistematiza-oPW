@@ -68,7 +68,7 @@ main {
 }
 
 .busca input {
-    background-image: url('../img/busca.png');
+    background-image: url('busca.png');
     background-repeat: no-repeat;
     background-position: 95%;
     height: 36px;
